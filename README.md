@@ -1,7 +1,10 @@
 # Quantitative-Paleontology-for-Mathematica
+
+![Alt text](https://github.com/pdpolly/Quantitative-Paleontology-for-Mathematica/blob/main/QuantPaleoIconGitHub.jpg)
+
 This Mathematica add-in performs quantitative analyses and modeling common in the field of paleontology, including simulating diversity through time, cohort/survivorship analysis, disparity through time, principal coordinates analysis, and various GIS functions.
 
-<b>Installation:</b> The file is a ".m" file, which can be imported into Mathematica 6.0 and later (functions do not work in earlier versions of Mathematica). Install using the "Install" item on the "File" menu. Once installed, you must load the package like any other with the line <<PollyQuantPaleo, using either this suggested name or another. 
+<b>Installation:</b> Download the ".m" file from <a href="https://github.com/pdpolly/Quantitative-Paleontology-for-Mathematica/releases/latest">the latest release section</a>. Install using the "Install" item on the "File" menu. Once installed, you must load the package like any other with the line <<PollyQuantPaleo, using either this suggested name or another. 
 
 <b>Changes in 5.x.</b> Added functions for Principal Coordinates Analysis (PCO) and Gower distances. Fixed bugs in Disparity[] and DisparityWithStages[] and added new character-based distance metric.
 
